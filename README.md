@@ -19,6 +19,7 @@ DDD + Modules
 │       └── TelegramBot/
 │           ├── Application/
 │           ├── Domain/
+│           ├── Http/
 │           ├── Infrastructure/
 │           └── Providers/
 ├── bootstrap/
